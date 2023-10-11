@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+}
+
+.Kata {
+    background-color: whitesmoke;
+    border-radius: 360px;
+    padding: 1%;
+} 
